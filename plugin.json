@@ -1,0 +1,8 @@
+{
+    "name": "Delete docs with metadata filter",
+    "version": "1.6.1",
+    "description": "This plugin deletes docs with metadatas filter. Write your metadata key, write your metadata value, toogle the delete button and push save",
+    "author_name": "Elio Errico",
+    "plugin_url": "https://github.com/ElioErrico/CAT_delete_doc_with_metadata_filter",
+    "tags": "cat, metadata, rabbithole, memory, filtering, delete docs"
+}
